@@ -5,7 +5,7 @@
 I am a multidisciplinary Software Engineer focused on building high-performance, user-centric digital experiences. With a background in **Computer Engineering**, I bridge the gap between complex technical architecture and intuitive visual design.
 
 - 🔭 I have lead development and directed visual designs across teams 
-- 🌱 I’m expert in **React, Next.js, TypeScript, and Node.js** 
+- 🌱 I’m expert in **React, Next.js, javaScript, TypeScript, and Node.js** 
 - 🎨 I am skilled in **UI Design, Prototyping, and Brand Identity** 
 - ⚡ Fun fact: I focus on performance—I've helped teams reduce page load times by 30% 
 
@@ -16,7 +16,8 @@ I am a multidisciplinary Software Engineer focused on building high-performance,
 **Frontend & Logic**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-JavaScript-3178C6?style=flat&logo=javascript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **Backend & CMS**
