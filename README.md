@@ -42,7 +42,7 @@ I am a multidisciplinary Software Engineer focused on building high-performance,
 
 ### 🤝 Let's Connect
 - 💼 **Portfolio:** [samueloyewade.framer.website](https://samueloyewade.framer.website/)
-- 📧 **Email:** iamsamueloyewade@gmail.com [cite: 2]
+- 📧 **Email:** iamsamueloyewade@gmail.com
 <!--- 🔗 **LinkedIn:** [Your LinkedIn Link Here]-->
 
 ---
